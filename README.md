@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Kubeflow
 - 💞️ I’m looking to collaborate on any open source project
-- My medium story - https://medium.com/@chandraabhay91471/how-to-install-kubeflow-locally-on-mac-easy-steps-8f5a01244c02
 - 📫 How to reach me 
 
 <!---
